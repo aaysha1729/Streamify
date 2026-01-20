@@ -1,0 +1,2 @@
+# Streamify
+Streamify chat application
